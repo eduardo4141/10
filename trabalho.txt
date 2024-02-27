@@ -5,3 +5,19 @@ Atualização de softwares e sistemas de controle de hardware;
 Monitoramento frequente de recursos;
 Política de controle de acesso físico e online;
 Divulgação e treinamento dos colaboradores com relação às boas práticas de TI;
+A Lei Geral de Proteção de Dados (LGPD) entrou em vigor no Brasil em setembro de 2020
+e tem como objetivo regulamentar o uso de dados pessoais por empresas e organizações
+em todo o país. Como resultado, as empresas estão tendo que se adaptar às novas normas
+de proteção de dados e tomar medidas para garantir que seus sistemas de armazenamento
+de dados estejam em conformidade com as regulamentações da LGPD.
+Os Data Centers desempenham um papel fundamental na garantia da conformidade com a
+LGPD, pois são os responsáveis pelo armazenamento seguro e confiável de dados
+pessoais de empresas e organizações. Os Data Centers precisam estar em conformidade
+com as regulamentações da LGPD, garantindo que os dados pessoais armazenados sejam
+protegidos e utilizados somente para os fins legítimos e autorizados pelas pessoas físicas
+envolvidas.
+Em resumo, a relação entre a LGPD e os Data Centers no Brasil é de que a LGPD exige
+que as empresas e organizações protejam os dados pessoais de seus clientes e
+funcionários e que os Data Centers são responsáveis por garantir que os dados sejam
+armazenados de forma segura e confiável, em conformidade com as regulamentações da
+LGPD.
