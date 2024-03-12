@@ -2,7 +2,7 @@ Esses são exemplos básicos para ilustrar as estruturas de repetição e tomada
 
 Estrutura de repetição (Loop):
 python
-Copy code
+
 # Exemplo de um loop for para imprimir os números de 1 a 5
 for i in range(1, 6):
     print(i)
