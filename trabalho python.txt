@@ -1,1 +1,39 @@
+Estrutura de repetição (Loop):
+python
+Copy code
+# Exemplo de um loop for para imprimir os números de 1 a 5
+for i in range(1, 6):
+    print(i)
+Este código irá imprimir:
+
+
+1
+2
+3
+4
+5
+
+
+Estrutura de tomada de decisão (Condicional):
+python
+
+# Exemplo de uma estrutura de decisão para verificar se um número é positivo, negativo ou zero
+numero = 10
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
+Este código irá imprimir:
+
+mathematica
+Copy code
+O número é positivo.
+Esses são exemplos básicos para ilustrar as estruturas de repetição e tomada de decisão em Python.
+
+
+
+
 
