@@ -1,3 +1,5 @@
+Esses são exemplos básicos para ilustrar as estruturas de repetição e tomada de decisão em Python:
+
 Estrutura de repetição (Loop):
 python
 Copy code
@@ -29,9 +31,8 @@ else:
 Este código irá imprimir:
 
 mathematica
-Copy code
+
 O número é positivo.
-Esses são exemplos básicos para ilustrar as estruturas de repetição e tomada de decisão em Python.
 
 
 
